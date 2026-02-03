@@ -20,9 +20,9 @@
 <br /> 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,c" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github"/>
-   <img src="https://skillicons.dev/icons?i=docker,eclipse,idea,spring" /><br>
+   <img src="https://skillicons.dev/icons?i=eclipse" /><br>
     
 </div>
 
@@ -34,8 +34,8 @@
 <hr/>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=sriramexpert&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sriramexpert&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=roja812&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=roja812&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 
 
