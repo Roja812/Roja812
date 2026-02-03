@@ -1,20 +1,15 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SRIRAM!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ROJA!;" />
 </h1>
 
 
-<h3 align="center">A Passionate software developer from India</h3>
+<h3 align="center">A Creative Web Developer from India</h3>
 <br>
 
-### 👨🏻‍💻 &nbsp;About Me
-<div align="center">
-  <p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.</p>
-  <p>🎓 &nbsp;I'm currently studying <a href="https://www.annamalaiuniversity.ac.in/">Computer Science</a> at Annamalai Unversity, India.\</p>
-   <p>🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\</p>
-   <p>💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\</p>
-   <p>✉️ &nbsp;You can shoot me an email at  I'll try to respond as soon as I can.\</p>
-   <p>📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!</p>
-  
+### 👨🏻‍💻  About Me
+<div align="center"> 
+    <p>💡 &nbsp;I’m a passionate <b>Web Developer</b>, <b>AI Trainer</b>, and <b>Tech Enthusiast</b> who enjoys building modern, user-friendly digital solutions.</p> <p>🎓 &nbsp;I’m currently an <b>Information Technology</b> student at <b>Gnananamai College of Technology (Autonomous)</b>, India.</p> <p>💻 &nbsp;I have strong programming skills in <b>Python</b>, <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>, and I’m currently learning <b>Java</b> to expand my development expertise.</p> <p>🎨 &nbsp;I’m experienced in <b>UI/UX Design</b> and have trained students in building intuitive and engaging student dashboards and interfaces.</p> <p>🎤 &nbsp;I’m a confident <b>English communicator</b>, <b>event host</b>, and <b>AI trainer</b> with experience mentoring and guiding learners in technology.</p> <p>🚀 &nbsp;I’m hardworking, adaptable, and possess strong <b>leadership</b>, <b>event management</b>, and <b>team collaboration</b> skills.</p> <p>🤝 &nbsp;I’m actively looking for <b>internships</b>, <b>projects</b>, and <b>career opportunities</b> where I can grow, contribute, and create impact.</p> <p>📄 &nbsp;Feel free to check out my <b>Résumé</b> — I’m always open to feedback, collaboration, and learning!
+</p>
 </div>
 <br /> 
 
@@ -53,6 +48,6 @@
 
 <h2 align="center">
 
-<a href="https://linkedin.com/in/sriram-sriram"><img src="https://img.shields.io/badge/-SRIRAM%20PALANIAPPAN-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/sriram_1711"><img src="https://img.shields.io/badge/-@sriram_1711-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/Roja Senthilkumar](https://www.linkedin.com/in/roja-senthilkumar-3522392a2)"><img src="https://img.shields.io/badge/-ROJA%20SENTHILKUMAR-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/miss_roselia_82"><img src="https://img.shields.io/badge/-@miss_roselia_82-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </h2>
